@@ -1,4 +1,4 @@
 streamlit
 pandas
 plotly
-pip install plotly
+scikit-learn
